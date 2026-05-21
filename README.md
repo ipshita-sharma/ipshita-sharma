@@ -87,8 +87,8 @@ class IpshitaSharma:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ipshita-sharma&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ipshita-sharma&theme=tokyonight&hide_border=true&layout=compact&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ipshita-sharma&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github"/>
+<img height="180em" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ipshita-sharma&theme=tokyonight&hide_border=true&layout=compact&langs_count=8"/>
 
 <img width="70%" src="https://streak-stats.demolab.com/?user=ipshita-sharma&theme=tokyonight&hide_border=true"/>
 
